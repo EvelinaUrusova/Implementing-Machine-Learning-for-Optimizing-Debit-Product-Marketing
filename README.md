@@ -5,4 +5,4 @@ This bachelor’s thesis presents a comprehensive investigation into the develop
 ## Key words:
 Banking, targeted marketing, machine learning, uplift modeling, CatBoost, comparative analysis, financial services, channel optimization
 
-![Uploading image.png…]()
+![Screen demonstration](https://github.com/EvelinaUrusova/Implementing-Machine-Learning-for-Optimizing-Debit-Product-Marketing/blob/main/Screen_demonstration.png)
